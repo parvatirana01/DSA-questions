@@ -9,9 +9,9 @@ public:
         }
         for(int i=0;i<n;i++){
             if(freq[nums[i]]>n/2){
-               max=nums[i];
+                max=nums[i];
             }
         }
-    return max;
+        return max;
     }
 };
