@@ -14,5 +14,5 @@ public:
             suffixProduct*=nums[i];
         }
         return result;
-        }
+    }
 };
